@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&display=swap');
+
+/* Prevent adjustments of font size after orientation changes in IE on Windows Phone and in iOS.  */
+html {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+
+/*----------- apply a natural box layout model to all elements --------------*/
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+body {
+  max-width: 1160px;
+  margin: 0 auto;
+}
+h1, h1 a {
+  color: #07203F;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600px;
+  background-color: #D9DBE7;
+  padding: 1.5em;
+  text-align: center;
+}
+h1 a {
+  padding: 0;
+}
+h2 {
+  color: #768298;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300px;
+  padding: 1.5em;
+}
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300px;
+  font-size: 1.5em;
+  text-align: center;
+}
+h6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 1em;
+  text-align: center;
+}
+p, a, ul, span {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300px;
+  color: #5B6B84;
+  text-decoration: none;
+  text-align: center;
+}
+footer {
+  padding: 1.5em;
+  background-color: #D9DBE7;
+  text-align: center;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+nav button {
+  margin: .2rem 2%;
+  background-color: #F8E8CE;
+  border: none;
+  font-size: 1.6rem;
+  color: #5B6B94;
+}
+nav {
+  background-color: #F8E8CE;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300px;
+  padding: 0 0 0 14em;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+nav ul li a {
+  display: block;
+  padding: .8rem 8%;
+  text-decoration: none;
+  color: #5B6B94;
+  border-top: 1px solid rgba(0,0,0,0.3);
+}
+nav ul li a:hover {
+  background-color: #5B6B84;
+  color: #F8E8CE;
+}
+header a:active {
+  background-color: #D9DBE7;
+  color: #09703F;
+}
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+nav ul.hide {
+  display: none;
+}
+
+#logo-div {
+  width: 5em;
+  height: 5em;
+  background: url("https://cdn.glitch.com/1ab97261-77a7-49da-81d8-ca47d3ae9fb7%2FWeather-Logo-Small.png?v=1624797604599") no-repeat;
+}
+#logo-div:hover {
+  background: url("https://cdn.glitch.com/1ab97261-77a7-49da-81d8-ca47d3ae9fb7%2FWeather-Logo-Color-Small.png?v=1624797599868") no-repeat;
+}
+#logo-div, #logo-div:hover {
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo-div img, #logo-div:hover img {
+  height: 1em;
+  weight: 3em;
+}
