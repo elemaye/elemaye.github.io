@@ -22,16 +22,24 @@
     #simply-chocolate img {
         grid-row: 3/5;
     }
-    #sc-p {
-        grid-column: 1/2;
+    #simply-chocolate p {
         grid-row: 5/7;
     }
     #paper-planes {
         grid-column: 2/3;
-        grid-row: 2/5;
         border: 1px solid #F25F70;
         border-radius: 10px;
         padding: 1em;
+    }
+    #paper-planes h3 {
+        grid-row: 2/3;
+    }
+    #paper-planes img {
+        grid-row: 3/5;
+    }
+    #paper-planes p {
+        grid-row: 5/7;
+        text-align: center;
     }
     #i-spy {
         grid-column: 3/4;
