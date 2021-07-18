@@ -2,8 +2,8 @@
     #page-2-content {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr 1fr 1fr; 
-        grid-gap: 2em;
+        grid-template-rows: .25fr 1fr 1fr 1fr; 
+        grid-gap: 1em;
     }
     #designP {
         grid-column: 1/4;
@@ -14,20 +14,20 @@
         grid-row: 2/5;
         border: 1px solid #F25F70;
         border-radius: 10px;
-        padding: 1em;
+        padding: 5em;
     }
     #paper-planes {
         grid-column: 2/3;
         grid-row: 2/5;
         border: 1px solid #F25F70;
         border-radius: 10px;
-        padding: 1em;
+        padding: 5em;
     }
     #i-spy {
         grid-column: 3/4;
         grid-row: 2/5;
         border: 1px solid #F25F70;
         border-radius: 10px;
-        padding: 1em;
+        padding: 5em;
     }
 }
