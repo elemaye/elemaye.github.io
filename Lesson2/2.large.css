@@ -22,7 +22,8 @@
     #simply-chocolate img {
         grid-row: 3/5;
     }
-    #simply-chocolate p {
+    #sc-p {
+        grid-column: 1/2;
         grid-row: 5/7;
     }
     #paper-planes {
