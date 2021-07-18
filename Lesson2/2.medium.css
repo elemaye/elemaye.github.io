@@ -33,6 +33,7 @@
       grid-template-rows: .25fr 1fr 1fr 1fr;
       grid-gap: 1em;
       padding: 1em 8% 1em 8%;
+      border-radius: 10px;
   }
     header {
       padding: 1em 1em 0em 1em;
