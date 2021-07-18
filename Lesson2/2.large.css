@@ -1,3 +1,20 @@
 @media only screen and (min-width: 64rem) {
-    
+    #p2-content {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr; 
+        grid-gap: 2em;
+    }
+    #simply-chocolate {
+        grid-column: 1/2;
+        grid-row: 1/4;
+    }
+    #paper-planes {
+        grid-column: 2/3;
+        grid-row: 1/4;
+    }
+    #i-spy {
+        grid-column: 3/4;
+        grid-row: 1/4;
+    }
 }
