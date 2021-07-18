@@ -1,5 +1,5 @@
 @media only screen and (min-width: 64rem) {
-    #p2-content {
+    #page-2-content {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr; 
