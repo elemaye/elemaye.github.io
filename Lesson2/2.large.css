@@ -4,26 +4,27 @@
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: .25fr 1fr 1fr 1fr; 
         grid-gap: 1em;
+        border-radius: 10px;
     }
     #designP {
         grid-column: 1/4;
         grid-row: 1/2;
     }
-    #simply-chocolate {
+    #simply-chocolate, #sc-p {
         grid-column: 1/2;
         grid-row: 2/5;
         border: 1px solid #F25F70;
         border-radius: 10px;
         padding: 5em;
     }
-    #paper-planes {
+    #paper-planes, #p-p {
         grid-column: 2/3;
         grid-row: 2/5;
         border: 1px solid #F25F70;
         border-radius: 10px;
         padding: 5em;
     }
-    #i-spy {
+    #i-spy, #is-p {
         grid-column: 3/4;
         grid-row: 2/5;
         border: 1px solid #F25F70;
