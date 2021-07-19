@@ -9,7 +9,7 @@
     #designP {
         grid-column: 1/4;
         grid-row: 1/2;
-        padding: 0 30px 0 30px;
+        padding: 0 30px 15px 30px;
     }
     #simply-chocolate {
         grid-column: 1/2;
