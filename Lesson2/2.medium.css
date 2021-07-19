@@ -61,6 +61,7 @@
   #paper-planes img {
     max-height: 30em;
   }
+  /*so is this*/
   #i-spy {
     grid-column: 1/2;
     grid-row: 3/4;
