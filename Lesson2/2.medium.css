@@ -30,7 +30,7 @@
   #page-2-content {
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 10em 50% 50%;
+    grid-template-rows: 10em 55% 45%;
     grid-gap: 1em;
     padding: 1em 8% 1em 8%;
     border-radius: 10px;
