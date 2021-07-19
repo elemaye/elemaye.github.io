@@ -46,6 +46,8 @@
   #simply-chocolate {
     grid-column: 1/2;
     grid-row: 2/3;
+    border: 1px solid #F25F70;
+    border-radius: 10px;
   }
   #simply-chocolate img {
     max-height: 30em;
@@ -53,6 +55,8 @@
   #paper-planes {
     grid-column: 2/3;
     grid-row: 2/3;
+    border: 1px solid #F25F70;
+    border-radius: 10px;
   }
   #paper-planes img {
     max-height: 30em;
@@ -60,6 +64,8 @@
   #i-spy {
     grid-column: 1/2;
     grid-row: 3/4;
+    border: 1px solid #F25F70;
+    border-radius: 10px;
   }
   footer {
     padding: 1em 2em 1em 2em;
