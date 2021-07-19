@@ -89,6 +89,7 @@ header a:hover {
 #page-2-content {
   padding: 1em;
   margin: 1em;
+  border: none;
 }
 
 /*footer {
