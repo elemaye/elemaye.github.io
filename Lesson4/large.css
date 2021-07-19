@@ -5,4 +5,16 @@
     h2 {
       padding: .5em;
     }
+    #hero-img {
+      display: grid;
+      grid-template-columns: repeat(4, 25%);
+      grid-template-rows: 100%;
+    }
+    #hero-img img {
+      grid-column: 1/5;
+    }
+    #weather-sum{
+      grid-column: 1/2;
+      background-color:antiquewhite;
+    }
   }
