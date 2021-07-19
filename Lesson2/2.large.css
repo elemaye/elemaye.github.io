@@ -16,7 +16,7 @@
         border-radius: 10px;
         padding: 1em;
     }
-    #simply-chocolate h3 {
+    /*#simply-chocolate h3 {
         grid-row: 2/3;
     }
     #simply-chocolate img {
@@ -24,7 +24,7 @@
     }
     #simply-chocolate p {
         grid-row: 5/7;
-    }
+    }*/
     #paper-planes {
         grid-column: 2/3;
         grid-row: 2/7;
@@ -32,7 +32,7 @@
         border-radius: 10px;
         padding: 1em;
     }
-    #paper-planes h3 {
+    /*#paper-planes h3 {
         grid-row: 2/3;
     }
     #paper-planes img {
@@ -41,7 +41,7 @@
     #paper-planes p {
         grid-row: 5/7;
         text-align: center;
-    }
+    }*/
     #i-spy {
         grid-column: 3/4;
         grid-row: 2/5;
