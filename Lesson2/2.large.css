@@ -32,4 +32,7 @@
         border-radius: 10px;
         padding: 1em;
     }
+    header {
+      padding: 0;
+    }
 }
