@@ -27,9 +27,32 @@ p, a, ul {
   font-weight: 300px;
   color: #5B6B84;
 }
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+nav li a {
+  display: block;
+  background-color:#F8E8CE;
+  color: #5B6B84;
+  text-align: center;
+  padding: .75rem;
+  text-decoration: none;
+  font-size: .95rem;
+}
+}
 footer {
   padding: 1.5em;
   background-color: #D9DBE7;
+}
+nav a:hover {
+  background-color: #5B6B84;
+  color: #F8E8CE;
+}
+.active {
+  text-decoration: underline;
 }
 #oxford {
   background-color: #07203F;
