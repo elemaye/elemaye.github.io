@@ -84,5 +84,6 @@
     }
     .img {
       align-self: flex-end;
+      max-width: 20em;
     }
   }
