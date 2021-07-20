@@ -26,6 +26,10 @@
       border-right: 1px solid rgba(0,0,0,0.3);
       padding: .8rem 1rem;
     }
+    nav ul li a:active {
+      background-color: #768298;
+      color: #F8E8CE;
+    } 
     nav ul.hide {
       display: block;
       display: flex;
