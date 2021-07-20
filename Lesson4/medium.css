@@ -78,12 +78,20 @@
       grid-column: 1/6;
     }
     #article {
-      display: flex;
-      flex-wrap: wrap;
+      display: grid;
+      grid-template-columns: 100%;
+      grid-template-rows: 10% 90%;
       text-align: left;
     }
-    .img {
-      align-self: flex-end;
+    #article h4 {
+      grid-row: 1/2;
+    }
+    #article p {
+      grid-row: 2/3;
+    }
+    #article img {
+      grid-row: 2/3;
+      float: left;
       max-width: 20em;
     }
   }
