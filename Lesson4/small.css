@@ -103,7 +103,7 @@ nav ul.hide {
   display: none;
 }
 
-#logo-div {
+/*#logo-div {
   width: 5em;
   height: 5em;
   background: url("https://cdn.glitch.com/1ab97261-77a7-49da-81d8-ca47d3ae9fb7%2FWeather-Logo-Small.png?v=1624797604599") no-repeat;
