@@ -12,4 +12,4 @@ function toggleMenu() {
   let monthName = months[d.getMonth()];
   let year = d.getFullYear();
   let fulldate = dayName + ", " + monthName + " " + d.getDate() + ", " + year;
-  document.getElementById("currentdate").innerHTML = fulldate;
+  document.getElementById("currentdate").innerHTML = "please work";
