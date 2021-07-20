@@ -9,6 +9,8 @@
       letter-spacing: 1.5pt;
       font-size: larger;
       margin-left: 17px;
+      text-decoration: none;
+      text-align: left;
     }
     nav button {
       display: none;
@@ -28,6 +30,9 @@
       display: block;
       display: flex;
       justify-content: center;
+    }
+    h1{
+      background-color: #D9DBE7;
     }
     h2 {
       padding: .5em;
