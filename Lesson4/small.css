@@ -45,6 +45,15 @@ p, a, ul, span {
   text-decoration: none;
   text-align: center;
 }
+header {
+  display: flex;
+  align-items: center;
+  justify-content; center;
+}
+header img {
+  width: 80px;
+  height: auto;
+}
 footer {
   padding: 1.5em;
   background-color: #D9DBE7;
