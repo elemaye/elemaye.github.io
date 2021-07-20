@@ -30,6 +30,10 @@
       background-color: #768298;
       color: #F8E8CE;
     } 
+    .active {
+      background-color: #768298;
+      color: #F8E8CE;
+    }
     nav ul.hide {
       display: block;
       display: flex;
