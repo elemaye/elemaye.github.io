@@ -44,15 +44,27 @@ p, a, ul, span {
   text-decoration: none;
   text-align: center;
 }
-whats-a-motto {
+header {
+  background-color: #D9DBE7;
+  padding: 5px 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #D9DBE7;
 }
 header img {
   width: 80px;
   height: auto;
+}
+.whats-a-motto h1 {
+  font-size: 1.6rem;
+  margin: 0 0 0 17px;
+  color: #07203F;
+}
+.motto {
+  font-style: italic;
+  color: #5B6B84;
+  margin-left: 20px;
+  font-size: .9rem;
 }
 footer {
   padding: 1.5em;
