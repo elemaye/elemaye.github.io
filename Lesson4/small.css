@@ -101,6 +101,9 @@ nav ul li a {
   color: #5B6B94;
   border-top: 1px solid rgba(0,0,0,0.3);
 }
+map img {
+  width: 100%;
+}
 nav ul li a:hover {
   background-color: #5B6B84;
   color: #F8E8CE;
