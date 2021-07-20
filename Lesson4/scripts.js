@@ -10,3 +10,7 @@ document.getElementById("get-year").innerHTML = date.getFullYear();
   let year = d.getFullYear();
   let fulldate = dayName + ", " + monthName + " " + d.getDate() + ", " + year;
   document.getElementById("currentdate").innerHTML = fulldate;
+
+  if (getDay == 2) {
+    document.querySelector('aside').style.display = 'block';
+  }
