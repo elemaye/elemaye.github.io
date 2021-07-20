@@ -71,7 +71,7 @@ header img {
 }
 footer {
   padding: 1.5em;
-  background-color: #D9DBE7;
+  background-color: #07203F;
   text-align: center;
 }
 footer a:hover {
@@ -116,21 +116,3 @@ header a:active {
 }
 nav ul.hide {
   display: none;
-}
-
-/*#logo-div {
-  width: 5em;
-  height: 5em;
-  background: url("https://cdn.glitch.com/1ab97261-77a7-49da-81d8-ca47d3ae9fb7%2FWeather-Logo-Small.png?v=1624797604599") no-repeat;
-}
-#logo-div:hover {
-  background: url("https://cdn.glitch.com/1ab97261-77a7-49da-81d8-ca47d3ae9fb7%2FWeather-Logo-Color-Small.png?v=1624797599868") no-repeat;
-}
-#logo-div, #logo-div:hover {
-    margin-left: auto;
-    margin-right: auto;
-}
-#logo-div img, #logo-div:hover img {
-  height: 1em;
-  weight: 3em;
-}

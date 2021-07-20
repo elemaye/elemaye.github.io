@@ -70,23 +70,4 @@
       display: flex;
       flex-wrap: wrap;
     }
-    footer, footer p {
-      text-align: left;
-    }
-    #footer-map img {
-      max-width: 25em;
-    }
-    #footer-contact img {
-      max-width: 2.5em;
-    }
-    #footer-social img {
-      max-width: 3em;
-    }
-    #footer-bar {
-      background-color: #07203F;
-      height: 3em;
-      max-width: 1160px;
-      margin: 0 auto;
-      padding: 0em;
-    }
   }
