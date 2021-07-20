@@ -15,7 +15,7 @@ h1, h1 a {
   font-family: "Poppins", sans-serif;
   font-weight: 600px;
   text-align: center;
-  background-color: none;
+  background-color: #D9DBE7;
 }
 /*h1 a {
   padding: 0;
@@ -67,6 +67,7 @@ header img {
   margin-left: 20px;
   font-size: .9rem;
   font-family: "Poppins", sans-serif;
+  text-align: left;
 }
 footer {
   padding: 1.5em;
