@@ -80,6 +80,7 @@
     #article {
       display: flex;
       flex-wrap: wrap;
+      text-align: left;
     }
     .img {
       align-self: flex-end;
