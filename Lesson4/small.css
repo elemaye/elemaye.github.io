@@ -14,13 +14,12 @@ h1, h1 a {
   color: #07203F;
   font-family: "Poppins", sans-serif;
   font-weight: 600px;
-  background-color: #D9DBE7;
   padding: 1.5em;
   text-align: center;
 }
-h1 a {
+/*h1 a {
   padding: 0;
-}
+}*/
 h2 {
   color: #768298;
   font-family: "Poppins", sans-serif;
@@ -49,6 +48,7 @@ whats-a-motto {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #D9DBE7;
 }
 header img {
   width: 80px;
