@@ -54,6 +54,7 @@ header {
 header img {
   width: 80px;
   height: auto;
+  box-shadow: none;
 }
 .whats-a-motto h1 {
   font-size: 1.6rem;
