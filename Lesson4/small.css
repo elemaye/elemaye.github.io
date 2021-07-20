@@ -116,3 +116,7 @@ header a:active {
 }
 nav ul.hide {
   display: none;
+}
+footer {
+  color: #F8E8CE;
+}
