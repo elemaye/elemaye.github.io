@@ -108,9 +108,9 @@ nav ul li a:hover {
   background-color: #5B6B84;
   color: #F8E8CE;
 }
-header a:active {
-  background-color: #D9DBE7;
-  color: #09703F;
+nav ul li a:active {
+  background-color: #768298;
+  color: #F8E8CE;
 }
 .clearfix:after {
   content: "";
