@@ -120,6 +120,6 @@ nav ul li a:active {
 nav ul.hide {
   display: none;
 }
-footer, span {
+footer, span, footer p {
   color: #F8E8CE;
 }
